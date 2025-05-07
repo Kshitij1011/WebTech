@@ -1,1 +1,3 @@
+This directory contains a collection of HTML, CSS, and JavaScript files created for learning and practicing web development concepts including HTML structure, CSS styling (internal, external), JavaScript interactivity, forms, tables, and frames.
+
 
